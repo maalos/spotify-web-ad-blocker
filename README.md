@@ -1,15 +1,10 @@
-# Spotify Crack - Chrome App
-<h2>For MacOS, Windows & Linux
+# Spotify Web ad blocker for Chrome
 
-## What's New:
-
-- Removed all ads
-- No need to skip ads
-- Removed premium and install buttons😁
-
-<img width="1440" alt="Screenshot 2022-01-08 at 9 34 45 AM" src="https://user-images.githubusercontent.com/83419951/148630845-7035d19b-895b-4b5b-aca4-ac5f61432391.png">
+## Features
+- Removes ads
+- Removes "premium" and "download" buttons
   
-## How to install
+## Installation
 
 1. Clone or download this repo into a folder.
 1. Go to chrome://extensions
