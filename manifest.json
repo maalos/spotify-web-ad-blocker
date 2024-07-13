@@ -7,11 +7,12 @@
    "content_scripts": [
       {
         "matches": ["https://open.spotify.com/*"],
-        "css" : ["style.css"]
+        "css" : ["css/style.css"],
+        "js": ["js/content.js"]
       }
   ],
 
-   "description": "Spotify Crack!",
+   "description": "Spotify Adblocker + lyrics fetcher",
    "icons": {
       "128": "img/icon.png"
    },

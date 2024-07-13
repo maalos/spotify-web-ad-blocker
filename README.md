@@ -1,11 +1,12 @@
-# Spotify Web ad blocker for Chrome
+# Spotify Adblocker + Genius lyrics
+It's not something I'm proud of, but at least it somewhat works for me (except for times when it doesn't)
 
 ## Features
 - Removes ads
 - Removes "premium" and "download" buttons
+- Adds back lyrics, fetched from Genius via cors-anywhere demo (https://cors-anywhere.herokuapp.com/corsdemo, needs refreshing every 24h or so)
   
 ## Installation
-
 1. Clone or download this repo into a folder.
 1. Go to chrome://extensions
 2. Make sure **Developer mode** (in the upper right corner) is ON.
