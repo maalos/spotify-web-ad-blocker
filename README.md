@@ -1,6 +1,9 @@
 # Spotify Adblocker + Genius lyrics
 It's not something I'm proud of, but at least it somewhat works for me (except for times when it doesn't)
 
+# Why is it archived?
+I'd call it irrelevant at this point - Brave Browser seems to block the ads by itself and Spotify decided to take an U-turn with it's paywalled lyrics - https://www.theverge.com/2024/7/31/24210316/spotify-gives-up-paid-song-lyrics-premium-test
+
 ## Features
 - Removes ads
 - Removes "premium" and "download" buttons
